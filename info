@@ -18,7 +18,6 @@
         "negatives": "Two-Faced, Gossipy and Emotionally Detached",
     },
     {
-        "id": 4,
         "zodiac": "Cancer",
         "dates": "June 21-July 22",
         "positives": "Caring, Creative and Supportive",
@@ -31,7 +30,6 @@
         "negatives": "Drama Queens, Bossy and Arrogant",
     },
     {
-        "id": 6,
         "zodiac": "Virgo",
         "dates": "August 23-September 22",
         "positives": "Clever, Talented and Determined",
@@ -72,5 +70,5 @@
         "dates": "February 19-March 20",
         "positives": "Creative, Imaginative and Artistic",
         "negatives": "Lazy, Escapist and Self-Pitying",
-    },
+    }
 ]
